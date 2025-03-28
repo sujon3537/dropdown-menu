@@ -60,3 +60,8 @@ li:hover .sub-menu {
 .sub-menu li:hover .deep-menu {
   display: block;
 }
+
+.sub-menu a,
+.deep-menu a {
+  width: 100%;
+}
